@@ -1,6 +1,4 @@
 # Sentimental-analysis-of-social-media-presence
-A complete end-to-end Sentiment Analysis Proof of Concept designed to classify social media posts into Positive, Negative, and Neutral sentiments.
-The project uses TF-IDF, Oversampling, and multiple ML models to achieve high accuracy and interpretable predictions.
 
 📌 Project Overview
 This POC demonstrates a full Machine Learning pipeline for analyzing user-generated content from platforms like Twitter, Instagram, and Facebook.
